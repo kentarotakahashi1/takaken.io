@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[2672],{6884:a=>{a.exports=JSON.parse('{"label":"hola","permalink":"/takaken.io/blog/tags/hola","allTagsPath":"/takaken.io/blog/tags","count":1}')}}]);
